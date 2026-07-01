@@ -1,0 +1,10 @@
+{:itonami.blueprint/id "cloud-itonami-isco-5120"
+ :itonami.blueprint/name "Independent Culinary Practice"
+ :itonami.blueprint/isco-08 "5120"
+ :itonami.blueprint/domain :services/culinary
+ :itonami.blueprint/license "AGPL-3.0-or-later"
+ :itonami.blueprint/social-impact [:local-jobs :food-safety :small-business-viability]
+ :itonami.blueprint/governor :culinary-governor
+ :itonami.blueprint/robotics true
+ :itonami.blueprint/required-technologies [:robotics :forms :telemetry :audit-ledger :bpmn]
+ :itonami.blueprint/status :public-oss}
