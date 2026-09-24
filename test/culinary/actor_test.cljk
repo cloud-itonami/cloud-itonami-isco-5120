@@ -1,5 +1,5 @@
 (ns culinary.actor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [culinary.actor :as actor]
             [culinary.store :as store]))
 
